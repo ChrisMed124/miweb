@@ -7,6 +7,7 @@ int main(){
 
     cout<<"Chanchito feliz"<<endl;
     cout<<"Chanchito feliz"<<endl;
+    cout<<"Otro chanchito feliz"<<endl;
 
     
 
